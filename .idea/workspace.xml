@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105a674f-6745-406b-b37b-1240d531308a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/car/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/car/ServingWebContentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/car/GreetingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/car/ServingWebContentApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/greeting.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/main.mustache" afterDir="false" />
-    </list>
+    <list default="true" id="105a674f-6745-406b-b37b-1240d531308a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +73,16 @@
       <workItem from="1584647836061" duration="1659000" />
       <workItem from="1584649557924" duration="614000" />
       <workItem from="1584726713259" duration="2987000" />
-      <workItem from="1584891103136" duration="2800000" />
+      <workItem from="1584891103136" duration="3392000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит проекта">
+      <created>1584896521981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584896521981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый коммит проекта" />
   </component>
 </project>
