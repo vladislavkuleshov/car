@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105a674f-6745-406b-b37b-1240d531308a" name="Default Changelist" comment="" />
+    <list default="true" id="105a674f-6745-406b-b37b-1240d531308a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -73,7 +76,7 @@
       <workItem from="1584647836061" duration="1659000" />
       <workItem from="1584649557924" duration="614000" />
       <workItem from="1584726713259" duration="2987000" />
-      <workItem from="1584891103136" duration="4114000" />
+      <workItem from="1584891103136" duration="4667000" />
     </task>
     <task id="LOCAL-00001" summary="Первый коммит проекта">
       <created>1584896521981</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584897058541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Первый коммит проекта">
+      <created>1584898744870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584898744870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
